@@ -2,6 +2,7 @@
 
 **Author:** MANISHIMWE Kwizera Jean Luc  
 **Course:** JAVA PROGRAMMING 
+
 **Project Type:** Class Assignment / Swing GUI Application  
 **Repository:**(https://github.com/Jean-Luc-of-God/Core-Banking-System-with-swing-school-project/tree/main)  
 
