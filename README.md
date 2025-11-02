@@ -1,9 +1,9 @@
 # Core Banking System (Swing) - Class Project
 
-**Author:** Kwizera Jean Luc  
-**Course:** [Your Course Name / Java Programming / Swing Development]  
+**Author:** MANISHIMWE Kwizera Jean Luc  
+**Course:** JAVA PROGRAMMING 
 **Project Type:** Class Assignment / Swing GUI Application  
-**Repository:** [GitHub Link]  
+**Repository:**(https://github.com/Jean-Luc-of-God/Core-Banking-System-with-swing-school-project/tree/main)  
 
 ---
 
